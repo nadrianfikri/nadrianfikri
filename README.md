@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Reku.Id](www.reku.id)
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **...**
 
-- 👨‍💻 All of my projts are available at [nadrianfikri.space](nadrianfikri.space)
+- 👨‍💻 All of my projts are available at ...
 
 - 💬 Ask me about **React, Typescript, more about frontend**
 
